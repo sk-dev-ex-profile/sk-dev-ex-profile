@@ -16,7 +16,7 @@
 
 ## Проект
 
-### [Book Loan Tracker](https://github.com/sk-dev-ex-profile/book-loan-tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sk-dev-ex-profile&repo=book-loan-tracker)](https://github.com/sk-dev-ex-profile/book-loan-tracker)
 
 Учебное приложение для учёта книг, выданных знакомым: кому отдали книгу,
 вернули ли её и какие выдачи были раньше. Есть веб-интерфейс и команды терминала.
