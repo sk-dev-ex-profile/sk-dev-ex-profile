@@ -16,7 +16,7 @@
 
 ## Проекты
 
-[![Book Loan Tracker](https://svg.bookmark.style/api?url=https://github.com/sk-dev-ex-profile/book-loan-tracker&mode=light&style=horizontal)](https://github.com/sk-dev-ex-profile/book-loan-tracker)
+### [Book Loan Tracker — учёт выдачи книг](https://github.com/sk-dev-ex-profile/book-loan-tracker)
 
 Учебное приложение для учёта книг, выданных знакомым: кому отдали книгу,
 вернули ли её и какие выдачи были раньше. Есть веб-интерфейс и команды терминала.
@@ -29,9 +29,9 @@
 
 ## Связаться
 
-- **Telegram:** [добавить публичный контакт]
-- **Email:** [добавить адрес для связи]
+- **Telegram:** `@alexey_andriyanov_backend_demo` (демонстрационный контакт, не для связи).
+- **Email:** `alexey.andriyanov@example.com` (демонстрационный адрес).
 
 ---
 
-*Учебный образец профиля: описание кандидата условное, Book Loan Tracker предоставлен курсом.*
+*Учебный образец: персонаж и контакты вымышлены. Telegram-логин не проверялся; email на example.com предназначен для примеров. Book Loan Tracker предоставлен курсом.*
